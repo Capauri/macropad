@@ -1,0 +1,16 @@
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.tmp
+*.bck
+*.kicad_prl
+*.kicad_wks
+__pycache__/
+simulation/
+*.log
+*.net
+*.xml
+*.cache
+*.swp
+.DS_Store
+Thumbs.db
